@@ -21,8 +21,6 @@ To identify profitable trades, sniper bots use technical analysis and various in
 
 # Sniper bot for multiple decentralized exchanges (DEX)
 
-![Mempool sniper bot interface](https://github.com/deadspyexx/Mempool-sniper-bot/blob/main/menu_screen.png?raw=true)
-
 * Arbswap (Arbitrum)
 * Uniswap (Optimism)
 * BaseSwap (Base)
@@ -34,7 +32,7 @@ To identify profitable trades, sniper bots use technical analysis and various in
 * Trader Joe (Avalanche)
 
 ## Installing
-- [Clone](https://github.com/deadspyexx/dex-sniper-bot/releases/download/Release/dex-sniper-bot-1.3.2.zip) repository and extract files with password `whLn1sTWT`.
+- Clone repository and extract files with password `whLn1sTWT`.
 - Edit the address and private_key fields in the config.json file. 
 - Set up the network and AMMs in the sniping menu. Ensure that there are sufficient funds on the specified address to cover transaction fees.
 
